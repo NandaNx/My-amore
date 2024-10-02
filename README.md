@@ -1,2 +1,2 @@
-# My amore
+# Meu amore
  Primeiro repositório versionado 
